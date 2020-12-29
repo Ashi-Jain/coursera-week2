@@ -1,3 +1,87 @@
 h1 {
-	background-color: yellow;
+	text-align: center;
+	font-weight: bold;
+	margin-bottom: 40px;
 }
+
+div {
+	padding-left: 40px;
+}
+	#first {
+         width: 320px;
+         height: 150px;
+         background: grey;
+         position: relative;
+        margin-right: 20px;
+        padding-top: 50px;
+        	float: left;
+	border: 1px solid black;
+	margin-left: 10px;
+	 border-width: thick;
+
+       }
+
+    #second {
+         position: absolute;
+         width: 30%;
+         height: 15%;
+         background: pink;
+         left: 56%;
+         top: 0%;
+         text-align: right;
+         border: 1px solid black;
+         border-width: thick;
+
+
+       }
+    #third {
+        width: 320px;
+         height: 150px;
+         background: grey;
+         position: relative;
+        
+        padding-top: 50px;
+        	float: left;
+	border: 1px solid black;
+	margin-right: 10px;
+	 border-width: thick;
+       }
+
+    #fourth {
+         position: absolute;
+         width: 30%;
+         height: 15%;
+         background: red;
+         left: 56%;
+         top: 0%;
+         text-align: right;
+         border: 1px solid black;
+         border-width: thick;
+       }
+       #fifth {
+         width: 320px;
+         height: 150px;
+         background: grey;
+         position: relative;
+         margin-left: 10px;
+        padding-top: 50px;
+        	float: left;
+	border: 1px solid black;
+	margin-right: 10px;
+	 border-width: thick;
+
+       }
+
+    #sixth {
+        position: absolute;
+         width: 30%;
+         height: 15%;
+         background: yellow;
+         left: 56%;
+         top: 0%;
+         text-align: right;
+         border: 1px solid black;
+         border-width: thick;
+       }
+
+   
